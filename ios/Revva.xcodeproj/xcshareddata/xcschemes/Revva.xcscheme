@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ProspaTest.app"
-               BlueprintName = "ProspaTest"
-               ReferencedContainer = "container:ProspaTest.xcodeproj">
+               BuildableName = "Revva.app"
+               BlueprintName = "Revva"
+               ReferencedContainer = "container:Revva.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ProspaTestTests.xctest"
-               BlueprintName = "ProspaTestTests"
-               ReferencedContainer = "container:ProspaTest.xcodeproj">
+               BuildableName = "RevvaTests.xctest"
+               BlueprintName = "RevvaTests"
+               ReferencedContainer = "container:Revva.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ProspaTest.app"
-            BlueprintName = "ProspaTest"
-            ReferencedContainer = "container:ProspaTest.xcodeproj">
+            BuildableName = "Revva.app"
+            BlueprintName = "Revva"
+            ReferencedContainer = "container:Revva.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ProspaTest.app"
-            BlueprintName = "ProspaTest"
-            ReferencedContainer = "container:ProspaTest.xcodeproj">
+            BuildableName = "Revva.app"
+            BlueprintName = "Revva"
+            ReferencedContainer = "container:Revva.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

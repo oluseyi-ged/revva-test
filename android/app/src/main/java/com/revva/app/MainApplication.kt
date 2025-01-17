@@ -1,4 +1,4 @@
-package com.prospa.test
+package com.revva.app
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ProspaTestTests : XCTestCase
+@interface RevvaTests : XCTestCase
 
 @end
 
-@implementation ProspaTestTests
+@implementation RevvaTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
